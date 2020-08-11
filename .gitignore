@@ -1,2 +1,4 @@
 ﻿wisdompets/__pycache__
 *.csv
+*.pyc
+*.csv#
